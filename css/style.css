@@ -1,0 +1,98 @@
+input
+{
+  outline: none; 
+  width: 100%; 
+  color: black;
+}
+input:focus
+{
+    border: 1px solid #1F6DFF;
+}
+*
+{
+    border: 0;
+    font-family: 'Lato', sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.box
+{
+    width: 666px;
+    background: #353A45;
+    border-radius: 24px;
+    box-shadow: 0px 20px 50px rgba(0, 0, 0, 0.1);
+    padding: 60px;
+}
+h1
+{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 58px;
+    color: #538FFF;
+    padding-right: 60px ;
+}
+.stay
+{ 
+    padding-right: 60px;
+    margin-top:20px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+.your
+{
+    height: 24px;
+    padding-right: 60px;
+    margin-top:20px;
+    font-family: Lato;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    color: #D3D3D3;
+}
+.email
+{
+    height: 60px;
+    padding: 18px;
+    border-radius: 10px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    color: black;
+}
+.botton
+{
+    height: 60px;
+    background: #538FFF;
+    border-radius: 10px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.botton:hover
+{
+    background: #1F6DFF;
+    cursor: pointer;
+}
+.text1
+{
+    padding-right: 60px;
+    margin-top: 25px ;
+}
+.text2
+{
+    padding-right: 60px;
+}
